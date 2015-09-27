@@ -1,0 +1,5 @@
+name: Carbon Folder
+dependencies:
+  carbon:
+    github: benoist/carbon-crystal
+    branch: master
