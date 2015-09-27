@@ -3,8 +3,8 @@
 ## Installation
 
 ```
-$ git clone https://github.com/benoist/carbon-apps.git
-$ crystal build libs/carbon/command -o ./carbon
+git clone https://github.com/benoist/carbon-apps.git
+crystal build libs/carbon/command -o ./carbon
 ```
 
 ## Usage
